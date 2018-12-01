@@ -1,0 +1,11 @@
+body{
+    line-height: 1.6; width: 1OO%; margin: 60px auto; background-color: #EEEEEE; font-size: 18px; max-width: 600px; margin-left: 50px; color: #282828;
+}
+
+h1,h2,h3{
+    line-height: 1.2
+}s
+
+em{
+    font-style: italic;
+}
