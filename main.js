@@ -1,4 +1,4 @@
-//confirm('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');
+confirm('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please');
 
 //let text=setTimeout
 
